@@ -2,5 +2,4 @@ var doSomeThing = function(){
   methodA();
   methodB();
   methodC();
-  methodD();
 }
